@@ -4,6 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, WebDriverException
+
 import time
 import random
 import traceback
@@ -11,16 +12,18 @@ import traceback
 # Create folder if it doesn't exist
 os.makedirs("Data", exist_ok=True)
 
+
+
 # Set up Chrome options
 options = webdriver.ChromeOptions()
-# options.add_argument("--headless")  # Uncomment for headless mode
+options.add_argument("--headless")  
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 
 try:
     with webdriver.Chrome(options=options) as driver:
         visited_links = set()
-        for i in range(5, 2287):  # Test with a small range first
+        for i in range(18, 2287):  # Test with a small range first
             url = f"https://dubai.dubizzle.com/en/property-for-sale/residential/?page={i}"
             print(f"Scraping page {i}...")
             driver.get(url)
