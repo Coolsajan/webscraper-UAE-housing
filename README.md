@@ -48,7 +48,16 @@ pip install -r requirements.txt
 **_This will install all the dependencies into your venv ._**
 
 ```bash
-python main.py
+python pages_extrector.py
 ```
 
-**_This will scrap all the html file into data folder ._**
+**_This will scrap the website and save all the listing as html._**
+
+```bash
+python scrap_html.py
+```
+
+**_This will scrap all the html file and save as csv._**
+<br />
+
+##### All set now you can use the data for your ML prediciton project or for other anylasis project forward..
