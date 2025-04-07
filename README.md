@@ -22,27 +22,33 @@ The website used for the data scraping is https://dubai.dubizzle.com/ . Dubizzle
 git init
 ```
 
-##### This will initiate you git.
+**_This will initiate you git._**
 
 ```bash
-git clone  https://github.com/Coolsajan/gitfit-tracker.git
+git clone  hhttps://github.com/Coolsajan/webscraper-UAE-housing.git
 ```
 
-##### This will clone my full gitfit repositories into yours.
+**_This will clone my full gitfit repositories into yours._**
 
 ##
 
-#### Step 2 : SETTING THE PROJET
+#### Step 2 : SETTING THE PROJECT
 
 ```bash
 python -m venv venv
 venv\Scripts\activate
 ```
 
-##### It is always a best practice to work on new env or ven fro new project .
+**_It is always a best practice to work on new env or ven for new project ._**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-##### This will intall all the dependencies into your venv .
+**_This will install all the dependencies into your venv ._**
+
+```bash
+python main.py
+```
+
+**_This will scrap all the html file into data folder ._**
