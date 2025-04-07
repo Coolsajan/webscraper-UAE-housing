@@ -1,5 +1,0 @@
-import os
-
-PROXIES=os.listdir("proxy_file")
-
-print(PROXIES)
