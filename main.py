@@ -9,7 +9,7 @@ import time
 os.makedirs("Data", exist_ok=True)
 
 
-page_no=30
+page_no=79
 # Setup WebDriver
 while True :
     driver = webdriver.Chrome()
@@ -49,6 +49,8 @@ while True :
     
         except Exception as e:
             print(f"Error visiting {link}: {e}")
+            continue
+    driver.quit()    
     page_no +=1
 
 driver.quit()
