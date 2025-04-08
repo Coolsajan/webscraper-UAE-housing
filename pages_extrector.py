@@ -9,7 +9,7 @@ import time
 os.makedirs("Data", exist_ok=True)
 
 
-page_no=116
+page_no=1
 # Setup WebDriver
 while True :
     driver = webdriver.Chrome()
