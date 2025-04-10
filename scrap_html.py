@@ -59,7 +59,7 @@ for link in links:
             print(f"Failed to get the detial locater for the {link}")
             pass
         data={"price":price,"bedroom":bedroom ,"bathroom":bathroom,"area(sqft)":area ,"country":country_name,"city":city,"address":address,
-             "propert_type":property_type,"purpose":purpose,"furnishing":furnishing_status,"completion_status":completion_status,"handover":handover,
+             "property_type":property_type,"purpose":purpose,"furnishing":furnishing_status,"completion_status":completion_status,"handover":handover,
              "project_name":project_name}
         
         full_data_list.append(data)

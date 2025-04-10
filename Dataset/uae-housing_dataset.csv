@@ -2224,7 +2224,6 @@ price,bedroom,bathroom,area(sqft),country,city,address,propert_type,purpose,furn
 "1,026,000",1 bed,2 baths,802 sqft, UAE, Dubai, Jumeirah Village Circle (JVC),Apartment,Sale,Furnished,Off-Plan,Q3 2027,Legado by Prescott
 "6,349,940",2 beds,2 baths,"1,716 sqft", UAE, Dubai, Dubai Harbour,Apartment,Sale,Unfurnished,Off-Plan,Q4 2026,Sobha Seahaven Tower B & C
 "2,600,000",2 beds,4 baths,"1,877 sqft", UAE, Dubai, DIFC,Apartment,Sale,Furnished,Ready,Q4 2026,Park Towers
-"12,000,000",3 beds,"13,000 sqft","1,877 sqft", UAE, Dubai, Al Barsha,Apartment,Sale,Unfurnished,Ready,Q4 2026,Al Barsha 2
 "145,000,000",7 beds,9 baths,"16,465 sqft", UAE, Dubai,Palm Jumeirah,Villa,Sale,Unfurnished,Ready,Q4 2026,Al Barsha 2
 "762,000",Studio,1 bath,319 sqft, UAE, Dubai, Al Satwa,Apartment,Sale,Unfurnished,Off-Plan,Q4 2026,Stamn One
 "1,890,000",3 beds,4 baths,"2,010 sqft", UAE, Dubai, Dubailand,Townhouse,Sale,Furnished,Off-Plan,Q4 2027,Taormina Village 1
@@ -2257,7 +2256,6 @@ price,bedroom,bathroom,area(sqft),country,city,address,propert_type,purpose,furn
 "2,100,000",3 beds,3 baths,"1,765 sqft", UAE, Dubai, Dubai Marina,Apartment,Sale,Unfurnished,Ready,Q4 2025,The Zen
 "1,730,000",1 bed,2 baths,"1,128 sqft", UAE, Dubai, Dubai Marina,Apartment,Sale,Unfurnished,Off-Plan,Q2 2025,Marina Living
 "2,990,000",2 beds,2 baths,"1,386 sqft", UAE, Dubai, Dubai Marina,Apartment,Sale,Furnished,Ready,Q2 2025,Orra Harbour Residences
-"12,000,000",3 beds,"13,000 sqft","1,386 sqft", UAE, Dubai, Al Barsha,Apartment,Sale,Unfurnished,Ready,Q2 2025,Al Barsha 2
 "145,000,000",7 beds,9 baths,"16,465 sqft", UAE, Dubai,Palm Jumeirah,Villa,Sale,Unfurnished,Ready,Q2 2025,Al Barsha 2
 "1,160,000",2 beds,2 baths,"1,035 sqft", UAE, Dubai, Majan,Apartment,Sale,Furnished,Off-Plan,Q2 2027,Forest City Tower
 "698,000",Studio,1 bath,468 sqft, UAE, Dubai, Majan,Apartment,Sale,Furnished,Off-Plan,Q2 2027,Forest City Tower
